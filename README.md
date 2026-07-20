@@ -2,10 +2,10 @@
 
 ## 멤버
 
-| 이름 |
-| --- |
-| 천영성 |
-| 이정훈 |
+| 이름 | GitHub |
+| --- | --- |
+| 천영성 | [@hokoro](https://github.com/hokoro) |
+| 이정훈 | [@kinghoon](https://github.com/kinghoon) |
 
 ## 재활 항목
 
