@@ -151,6 +151,7 @@ title("8. math 모듈")
 
 print("올림:", math.ceil(3.14))
 print("내림:", math.floor(3.99))
+print("소수점 이하 버림: ",math.trunc(3.14))
 print("제곱근:", math.sqrt(16))       # float 반환
 print("정수 제곱근:", math.isqrt(17)) # 4
 print("팩토리얼:", math.factorial(5))
