@@ -296,3 +296,24 @@ print(
 5. 문자열에서 알파벳은 제외하고 숫자만 골라 합을 구해 보세요.
 """
 )
+# 1
+text = "algorithm"
+print(text[::-1])
+#2
+banana="banana"
+print(banana.count("a"))
+#3
+# a = input("입력:")
+# print(a == a[::-1])
+#4
+b = "2026/07/28"
+print(b.split("/"))
+
+#5
+c = "a1b2c3"
+d = 0
+for j in c : 
+    if j.isdigit():
+        d += int(j)
+
+print(d)
